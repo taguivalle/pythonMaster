@@ -1,0 +1,227 @@
+[
+  {
+    "nombre": "Carlos",
+    "apellidos": "Ruiz Méndez",
+    "direccion": "Avenida de la Constitución 45",
+    "cp": "41001",
+    "correo": "c.ruiz@hotmail.com",
+    "telefono": "654987321",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Beatriz",
+    "apellidos": "López Vega",
+    "direccion": "Calle Mayor 12, 3B",
+    "cp": "28013",
+    "correo": "b.lopez.vega@gmail.com",
+    "telefono": "612457890",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Javier",
+    "apellidos": "Sánchez Pardo",
+    "direccion": "Paseo de Gracia 102",
+    "cp": "08008",
+    "correo": "javier.sanchez@outlook.es",
+    "telefono": "677112233",
+    "estado_civil": "divorciado"
+  },
+  {
+    "nombre": "Elena",
+    "apellidos": "Martínez Castro",
+    "direccion": "Calle Real 7",
+    "cp": "15001",
+    "correo": "emartinez@yahoo.com",
+    "telefono": "600334455",
+    "estado_civil": "viuda"
+  },
+  {
+    "nombre": "Ricardo",
+    "apellidos": "Gómez Ferrero",
+    "direccion": "Plaza de España 5",
+    "cp": "50001",
+    "correo": "ricardog@protonmail.com",
+    "telefono": "688556677",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Sofía",
+    "apellidos": "Hernández Gil",
+    "direccion": "Calle del Pez 21",
+    "cp": "28004",
+    "correo": "sofi_h@gmail.com",
+    "telefono": "622998877",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Manuel",
+    "apellidos": "Díaz Ortiz",
+    "direccion": "Calle Sierpes 34",
+    "cp": "41004",
+    "correo": "manuel_diaz@empresa.com",
+    "telefono": "644121212",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Laura",
+    "apellidos": "Torres Blanca",
+    "direccion": "Calle Colón 15",
+    "cp": "46004",
+    "correo": "laura.torres@icloud.com",
+    "telefono": "633001122",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Alejandro",
+    "apellidos": "Navarro Soler",
+    "direccion": "Avenida de los Rosales 8",
+    "cp": "29010",
+    "correo": "alex_nav@gmail.com",
+    "telefono": "655774411",
+    "estado_civil": "divorciado"
+  },
+  {
+    "nombre": "Marta",
+    "apellidos": "Domínguez Rey",
+    "direccion": "Gran Vía 56",
+    "cp": "28013",
+    "correo": "mrey_marta@live.com",
+    "telefono": "699885522",
+    "estado_civil": "viuda"
+  },
+  {
+    "nombre": "Hugo",
+    "apellidos": "Jiménez Sanz",
+    "direccion": "Calle de la Paz 3",
+    "cp": "46003",
+    "correo": "hjimenez@terra.es",
+    "telefono": "611223344",
+    "estado_civil": "soltero"
+  },
+  {
+    "nombre": "Lucía",
+    "apellidos": "Vázquez Maza",
+    "direccion": "Calle Luna 9, 4A",
+    "cp": "28004",
+    "correo": "lucia.vazquez@me.com",
+    "telefono": "670123987",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Daniel",
+    "apellidos": "Moreno Campos",
+    "direccion": "Travesía del Pino 11",
+    "cp": "33001",
+    "correo": "dani_moreno@gmail.com",
+    "telefono": "620454545",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Irene",
+    "apellidos": "Pérez León",
+    "direccion": "Calle de las Flores 2",
+    "cp": "18001",
+    "correo": "ipeleon@gmail.com",
+    "telefono": "650321654",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Sergio",
+    "apellidos": "Ramos Vidal",
+    "direccion": "Calle Larga 50",
+    "cp": "11403",
+    "correo": "sramos_vidal@yahoo.es",
+    "telefono": "660889900",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Paula",
+    "apellidos": "Gil Garrido",
+    "direccion": "Ronda de Outeiro 120",
+    "cp": "15007",
+    "correo": "paula.gil@icloud.com",
+    "telefono": "680776655",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Andrés",
+    "apellidos": "Blanco Rivas",
+    "direccion": "Avenida de Alfonso X 22",
+    "cp": "30008",
+    "correo": "andres_b@outlook.com",
+    "telefono": "610998811",
+    "estado_civil": "divorciado"
+  },
+  {
+    "nombre": "Silvia",
+    "apellidos": "Molina Cruz",
+    "direccion": "Calle San Fernando 5",
+    "cp": "03002",
+    "correo": "silvia.mcruz@gmail.com",
+    "telefono": "630445566",
+    "estado_civil": "casada"
+  },
+  {
+    "nombre": "Fernando",
+    "apellidos": "Suárez Luque",
+    "direccion": "Pasaje del Comercio 1",
+    "cp": "23700",
+    "correo": "f.suarez@empresa.es",
+    "telefono": "690112277",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Cristina",
+    "apellidos": "Flores Prieto",
+    "direccion": "Calle Ancha 18",
+    "cp": "24003",
+    "correo": "cris.flores@mail.com",
+    "telefono": "670554433",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Jorge",
+    "apellidos": "Guerrero Montes",
+    "direccion": "Calle San Miguel 14",
+    "cp": "50001",
+    "correo": "jguerrero@gmail.com",
+    "telefono": "611447788",
+    "estado_civil": "soltero"
+  },
+  {
+    "nombre": "Carmen",
+    "apellidos": "Ortega Rincón",
+    "direccion": "Avenida de la Libertad 33",
+    "cp": "20004",
+    "correo": "c.ortega@yahoo.com",
+    "telefono": "655990011",
+    "estado_civil": "viuda"
+  },
+  {
+    "nombre": "Alberto",
+    "apellidos": "Calvo Soto",
+    "direccion": "Calle Nueva 67",
+    "cp": "09001",
+    "correo": "acalvo_soto@gmail.com",
+    "telefono": "622336699",
+    "estado_civil": "casado"
+  },
+  {
+    "nombre": "Sara",
+    "apellidos": "Marín Peñas",
+    "direccion": "Calle Sol 4, 1D",
+    "cp": "47001",
+    "correo": "sara.marin@outlook.es",
+    "telefono": "644778899",
+    "estado_civil": "soltera"
+  },
+  {
+    "nombre": "Raúl",
+    "apellidos": "Méndez Rico",
+    "direccion": "Paseo de la Castellana 200",
+    "cp": "28046",
+    "correo": "rmendez@mail.com",
+    "telefono": "600112233",
+    "estado_civil": "divorciado"
+  }
+]
